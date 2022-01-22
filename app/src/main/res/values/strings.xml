@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="Title">Животот е круг</string>
+    <string name="titleRegister">Креирај профил</string>
+    <string name="descriptionRegister">Бесплатно е и потребни се неколку секунди!</string>
+    <string name="spinnerTitle">Тип на корисник</string>
+    <string name="olderUser">Повозрасно лице</string>
+    <string name="volunteer">Волонтер</string>
+    <string name="descriptionOlderActivity">Опис</string>
+    <string name="OlderActivity">Внесете активност</string>
+    <string name="choose">Изберете</string>
+    <string name="once">Ендократно</string>
+    <string name="repetitive">Да се повторува неделно</string>
+    <string name="immediately">Да</string>
+    <string name="later">Не</string>
+    <string name="select_deadline">Select deadline</string>
+    <string name="descriptionOfSpinner1">Активноста треба итно да се изврши!</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="aktivniBaranja">Активни барања</string>
+    <string name="send">Испрати</string>
+    <string-array name="usersType">
+        <item>@string/olderUser</item>
+        <item>@string/volunteer</item>
+    </string-array>
+    <string-array name="activityFrequency">
+        <item>@string/once</item>
+        <item>@string/repetitive</item>
+    </string-array>
+    <string-array name="urgencyOfTheActivity">
+        <item>@string/immediately</item>
+        <item>@string/later</item>
+    </string-array>
+</resources>
